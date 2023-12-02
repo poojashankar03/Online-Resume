@@ -31,8 +31,4 @@ Feel free to customize the resume content by editing the HTML and CSS files. Add
 ## Author 👩‍💻
 
 - **Pooja J**
-- [LinkedIn](https://www.linkedin.com/in/pooja-j)
-
-## License 📝
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [LinkedIn](www.linkedin.com/in/pooja-jaishankar)

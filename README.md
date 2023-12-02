@@ -28,7 +28,4 @@ This repository contains the HTML and CSS code for my online resume. It's a simp
 
 Feel free to customize the resume content by editing the HTML and CSS files. Add your details and personalize it as needed.
 
-## Author 👩‍💻
-
-- **Pooja J**
-- [LinkedIn](www.linkedin.com/in/pooja-jaishankar)
+## Happy Coding 👩‍💻✨
